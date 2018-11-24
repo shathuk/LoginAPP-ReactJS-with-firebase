@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Firebase + reactJs boom Login with email and password Signup with email and password Sign in with google Logout And all user details save into firebase real time database.
 
 ## Available Scripts
 
