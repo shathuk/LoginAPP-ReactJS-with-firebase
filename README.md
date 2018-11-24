@@ -1,5 +1,9 @@
 
-Firebase + reactJs boom Login with email and password Signup with email and password Sign in with google Logout And all user details save into firebase real time database.
+Firebase + reactJs  >>Login with email and password. 
+                    >>Signup with email and password.
+                    >>Sign in with google. 
+                    >>Logout.
+                    >>And all user details save into firebase real time database.
 
 ## Available Scripts
 
